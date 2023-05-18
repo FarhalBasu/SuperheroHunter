@@ -17,6 +17,7 @@ Clone the repository: git clone https://github.com/FarhalBasu/Superhero-Hunter.g
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License.
 
 Feel free to customize the README file according to your application's specific details, such as installation instructions, technologies used, and contribution guidelines.
